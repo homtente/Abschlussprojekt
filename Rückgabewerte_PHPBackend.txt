@@ -1,0 +1,364 @@
+Rückgabewert vw_qs_audit/v1/autadesapi_pidComparison?Pids=9144P05580086K240819
+{
+    "success": true,
+    "parameter": {
+        "Pids": "9144P05580086K240819"
+    },
+    "payload": {
+        "L2-120.1": {
+            "Station L2-120.1 : Schrauber Verschlußschraube": {
+                "Ergebnis_Schraubabgleich": true
+            }
+        },
+        "L2-121.1": {
+            "Station L2-121.1 : Schrauber Verschlußschraube": {
+                "Ergebnis_Schraubabgleich": true
+            }
+        },
+        "L2-150.1": {
+            "Station L2-150.1 : Spindel 1": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-150.1 : Spindel 2": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-150.1 : Spindel 3": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-150.1 : Spindel 4": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-150.1 : Spindel 5": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-150.1 : Spindel 6": {
+                "Ergebnis_Schraubabgleich": true
+            }
+        },
+        "L2-211.1": {
+            "Station L2-211.1 : Spindel 1": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-211.1 : Spindel 2": {
+                "Ergebnis_Schraubabgleich": true
+            }
+        },
+        "L2-220.1": {
+            "Station L2-220.1 : Erdung Spindel 1": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-220.1 : Erdung Spindel 2": {
+                "Ergebnis_Schraubabgleich": true
+            }
+        },
+        "L2-240.1": {
+            "Station L2-240.1 :  GGH und MGH verschrauben Spindel 1": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-240.1 :  GGH und MGH verschrauben Spindel 2": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-240.1 :  GGH und MGH verschrauben Spindel 3": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-240.1 :  GGH und MGH verschrauben Spindel 4": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-240.1 :  GGH und MGH verschrauben Spindel 5": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-240.1 :  GGH und MGH verschrauben Spindel 6": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-240.1 :  GGH und MGH verschrauben Spindel 7": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-240.1 :  GGH und MGH verschrauben Spindel 8": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-240.1 :  GGH und MGH verschrauben Spindel 9": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-240.1 :  GGH und MGH verschrauben Spindel 10": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-240.1 :  GGH und MGH verschrauben Spindel 11": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-240.1 :  GGH und MGH verschrauben Spindel 12": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-240.1 :  GGH und MGH verschrauben Spindel 13": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-240.1 :  GGH und MGH verschrauben Spindel 14": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-240.1 :  GGH und MGH verschrauben Spindel 15": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-240.1 :  GGH und MGH verschrauben Spindel 16": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-240.1 :  GGH und MGH verschrauben Spindel 17": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-240.1 :  GGH und MGH verschrauben Spindel 18": {
+                "Ergebnis_Schraubabgleich": true
+            }
+        },
+        "L2-261.2": {
+            "Station L2-261.2 : Schrauben Verschlußschraube": {
+                "Ergebnis_Schraubabgleich": true
+            }
+        },
+        "L2-280.2": {
+            "Station L2-280.2 : Schrauber Kontaktbrücke Spindel 1": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-280.2 : Schrauber Kontaktbrücke Spindel 2": {
+                "Ergebnis_Schraubabgleich": true
+            }
+        },
+        "L2-290.1": {
+            "Station L2-290.1 : Schrauber  ZSB Kabelkanal Spindel 1": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-290.1 : Schrauber  ZSB Kabelkanal Spindel 2": {
+                "Ergebnis_Schraubabgleich": true
+            }
+        },
+        "L2-310.3": {
+            "Station L2-310.3 : Schraube ZSB Sensordrehwinkel Spindel 1": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-310.3 : Schraube ZSB Sensordrehwinkel Spindel 2": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-310.3 : Schraube ZSB Sensordrehwinkel Spindel 3": {
+                "Ergebnis_Schraubabgleich": true
+            }
+        },
+        "L2-360.1": {
+            "Station L2-360.1 : Schrauber Wasserstutzen Spindel 1": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-360.1 : Schrauber Wasserstutzen Spindel 2": {
+                "Ergebnis_Schraubabgleich": true
+            }
+        },
+        "L2-410.1": {
+            "Station L2-410.1 : Schrauber Leistungselektronik Spindel 1": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-410.1 : Schrauber Leistungselektronik Spindel 2": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-410.1 : Schrauber Leistungselektronik Spindel 3": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-410.1 : Schrauber Leistungselektronik Spindel 4": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-410.1 : Schrauber Leistungselektronik Spindel 5": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-410.1 : Schrauber Leistungselektronik Spindel 6": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-410.1 : Schrauber Leistungselektronik Spindel 7": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-410.1 : Schrauber Leistungselektronik Spindel 8": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-410.1 : Schrauber Leistungselektronik Spindel 9": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-410.1 : Schrauber Leistungselektronik Spindel 10": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-410.1 : Schrauber Leistungselektronik Spindel 11": {
+                "Ergebnis_Schraubabgleich": true
+            }
+        },
+        "L2-411.1": {
+            "Station L2-411.1 : Schrauber Hutmuttern LE Spindel 1": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-411.1 : Schrauber Hutmuttern LE Spindel 2": {
+                "Ergebnis_Schraubabgleich": true
+            }
+        },
+        "L2-440.2": {
+            "Station L2-440.2 : Schrauber LE-Deckel Spindel 1": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-440.2 : Schrauber LE-Deckel Spindel 2": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-440.2 : Schrauber LE-Deckel Spindel 3": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-440.2 : Schrauber LE-Deckel Spindel 4": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-440.2 : Schrauber LE-Deckel Spindel 5": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-440.2 : Schrauber LE-Deckel Spindel 6": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-440.2 : Schrauber LE-Deckel Spindel 7": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-440.2 : Schrauber LE-Deckel Spindel 8": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-440.2 : Schrauber LE-Deckel Spindel 9": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-440.2 : Schrauber LE-Deckel Spindel 10": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-440.2 : Schrauber LE-Deckel Spindel 11": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-440.2 : Schrauber LE-Deckel Spindel 12": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-440.2 : Schrauber LE-Deckel Spindel 13": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-440.2 : Schrauber LE-Deckel Spindel 14": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-440.2 : Schrauber LE-Deckel Spindel 15": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-440.2 : Schrauber LE-Deckel Spindel 16": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-440.2 : Schrauber LE-Deckel Spindel 17": {
+                "Ergebnis_Schraubabgleich": true
+            },
+            "Station L2-440.2 : Schrauber LE-Deckel Spindel 18": {
+                "Ergebnis_Schraubabgleich": true
+            }
+        },
+        "L2-460.2": {
+            "Station L2-460.2 : Schrauber Verschrauben UVW Mitte Spindel 1": {
+                "Ergebnis_Schraubabgleich": true
+            }
+        }
+    }
+}
+______________________________________________________________________________________________________________________________
+Rückgabewert vw_qs_audit/v1/autadesapi_productionProtocol?serialNumber=9144P05580086K240819
+{
+    "success": true,
+    "parameter": {
+        "serialNumber": "9144P05580086K240819"
+    },
+    "payload": null
+}
+_______________________________________________________________________________________________________________________________
+Rückgabewert vw_qs_audit/v1/autadesapi_productionoverview?pId=9144P05580086K240819
+{
+    "success": true,
+    "parameter": {
+        "pId": "9144P05580086K240819"
+    },
+    "payload": [
+        {
+            "propertyId": 585,
+            "name": "\t#0MP301103G ##422178355#24080657534**=02021\r\n",
+            "description": "DMC GGH"
+        },
+        {
+            "propertyId": 600,
+            "name": "0MP311103E 32310433124080205248A----                                                                ",
+            "description": "DMC AW"
+        },
+        {
+            "propertyId": 601,
+            "name": "286__2408080659                                                                                     ",
+            "description": "DMC TW"
+        },
+        {
+            "propertyId": 602,
+            "name": "",
+            "description": "Vormontage PID"
+        },
+        {
+            "propertyId": 608,
+            "name": "#0MP409121__##315006665#24072400338**=21                                                            ",
+            "description": "DMC  ZSB-AGG (L2-050.1)"
+        },
+        {
+            "propertyId": 609,
+            "name": "9144P05600092K240819",
+            "description": "Vormontage PID"
+        },
+        {
+            "propertyId": 639,
+            "name": "#0ET903041AB##332900711#24081000425**=12446\r\n",
+            "description": "DMC  MGH"
+        },
+        {
+            "propertyId": 640,
+            "name": "9144P05610117K240819",
+            "description": "Vormontage PID"
+        },
+        {
+            "propertyId": 668,
+            "name": "0ET901109A_##342178941#24062501503**=1                   ",
+            "description": "DMC Deckel"
+        },
+        {
+            "propertyId": 683,
+            "name": "#0ET904113C_##366681837#24080900591**=B8",
+            "description": "DMC ZSB Rotor"
+        },
+        {
+            "propertyId": 684,
+            "name": "",
+            "description": "Vormontage PID"
+        },
+        {
+            "propertyId": 693,
+            "name": "#0ET901105B ##510939767#24080600170**=1    ",
+            "description": "DMC ZSB Lagerschild mit Stator"
+        },
+        {
+            "propertyId": 698,
+            "name": "",
+            "description": "Vormontage PID"
+        },
+        {
+            "propertyId": 805,
+            "name": "#0ET.907.125##671992173#23081108821**1DW",
+            "description": "DMC  ZSB-Sensordrehwinkel"
+        },
+        {
+            "propertyId": 828,
+            "name": "3__##439838477#24072600733**=B0000\r\n",
+            "description": "DMC LE-Deckel"
+        },
+        {
+            "propertyId": 846,
+            "name": "3#0ET907121G    #HH10S7260#*K51RB8-65810.08.2418860070*=HV1\r\n",
+            "description": "DMC ZSB Pulswechselrichter (LE)"
+        },
+        {
+            "propertyId": 923,
+            "name": "\t#0ET901135__##439838477#23102601130**=A0000\r\n",
+            "description": "DMC Deckel HV-Klemmkasten"
+        },
+        {
+            "propertyId": 952,
+            "name": "0ET905421F ##850527747#24021600368**=20000",
+            "description": "DMC ZSB Leitung/Kabelsatz"
+        }
+    ]
+}
